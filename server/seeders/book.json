@@ -1,0 +1,24 @@
+[
+    {
+        "authors": ["julia", "Anna", "Sally", "Nancy"],
+        "description": "A smashing read",
+        "bookId": "123",
+        "link": "www.link.com",
+        "title": "Tales of the M5"
+    },
+    {
+        "authors": ["Sandra", "Jess", "Kate"],
+        "description": "A book about tables",
+        "bookId": "566",
+        "link": "www.link.com",
+        "title": "Table fables"
+    },
+    {
+        "authors": ["Susan", "Sue", "Suzanna"],
+        "description": "A book about having the same name as someone else",
+        "bookId": "567",
+        "link": "www.link.com",
+        "title": "Sue Cubed"
+    }
+   
+]
